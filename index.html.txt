@@ -5,11 +5,13 @@
         <title>Document</title>
     </head>
     <body>
-    <div>
+    <div class="header">
+    <h1>Logo</h1>
+    </div>
 
 This is first commit!
 this is second line
 its cool
-    </div>
+   
     </body>
       </html>
