@@ -14,5 +14,9 @@ This is first commit!
 this is second line
 its cool
    
+   <div class="footer footer2">
+   footer
+   </div>
+   
     </body>
       </html>
