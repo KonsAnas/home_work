@@ -8,8 +8,7 @@
     <div>
 
 This is first commit!
-vsepoluchitsa
-obyazatel`no
+this is second line
     </div>
     </body>
       </html>
